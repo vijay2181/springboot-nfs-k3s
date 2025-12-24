@@ -6,7 +6,7 @@
 
 - **Server:** nfs-server, x86_64, Ubuntu Version 20.04 - Focal Fossa  
 - **Specs:** SMALL 2 vCPUs / 4GB / 100GB Disk  
-- **SSH:** `ssh onecloud-user@9.114.114.215`
+- **SSH:** `ssh user@9.114.114.25`
 
 ```bash
 sudo -i
