@@ -13,7 +13,7 @@ spec:
     - nfsvers=4.1
   nfs:
     path: /srv/nfs/kind-data
-    server: 192.168.1.100    # change to your host IP
+    server: 9.114.114.215    # change to your host IP
 ---
 apiVersion: v1
 kind: PersistentVolumeClaim

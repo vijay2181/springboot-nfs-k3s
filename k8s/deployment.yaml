@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: nfs-demo
-          image: tushardashpute/nfs-demo:latest
+          image: vijay2181/springboot-nfs-demo:latest
           imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 8080
